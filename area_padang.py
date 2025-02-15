@@ -537,7 +537,7 @@ def process_location(latitude: float, longitude: float, search_radius: float) ->
 
 # Main execution
 if __name__ == "__main__":
-    GEOJSON_PATH = "tes.geojson"
+    GEOJSON_PATH = "padang.geojson"
     process_location_with_polygon(GEOJSON_PATH)
 # 
 #
