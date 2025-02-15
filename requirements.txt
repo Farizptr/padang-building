@@ -1,0 +1,10 @@
+numpy
+Pillow
+requests
+roboflow
+torch
+ultralytics
+matplotlib
+shapely
+pyproj
+geojson
